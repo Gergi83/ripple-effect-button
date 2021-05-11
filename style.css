@@ -12,13 +12,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #d65db1;
+  background: #845ec2;
 }
 
 button {
-  background: #ff6f91;
+  background: #b39cd0;
   color: #fff;
-  border: 1px solid #ff6f91;
+  border: 1px solid #b39cd0;
   font-size: 16px;
   text-transform: uppercase;
   padding: 22px 33px;
